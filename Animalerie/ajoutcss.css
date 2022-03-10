@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(214, 240, 214);
+}
+
+form{
+    width: 600px;
+    padding: 60px;
+    background-color: rgb(157, 240, 198, 0.5);
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+input{
+    width : 400px;
+    padding : 4px 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    border-radius: 5px;
+    border: none;
+}
+
+label{
+    display: inline-block;
+    width: 80px;
+    text-align: right;
+    color: #045c30;
+}
+
+input[type="submit"]{
+    width : 420px;
+    background-color: #045c30;
+    color: whitesmoke;
+}
+
